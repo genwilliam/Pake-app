@@ -8,25 +8,26 @@ Pake 是一个基于 Tauri 的框架，可以轻松地将任何网页应用转�
 
 ## 🎯 包含的应用
 
+查看[构建命令](./构建命令.md)了解每个应用的具体构建方式。
 该项目包含以下应用程序：
 
-| 应用          | 说明                      | 官方网站                  |
-| ------------- | ------------------------- | ------------------------- |
-| Bilibili      | B站客户端                 | https://www.bilibili.com  |
-| ChatGPT       | ChatGPT 网页版应用        | https://chatgpt.com       |
-| DevDocs       | DevDocs 开发文档浏览器    | https://devdocs.io        |
-| Diagrams      | Diagrams.net 在线绘图工具 | https://www.diagrams.net  |
-| Douyin        | 抖音客户端                | https://www.douyin.com    |
-| Excalidraw    | Excalidraw 白板绘图工具   | https://excalidraw.com    |
-| Gemini        | Google Gemini AI 应用     | https://gemini.google.com |
-| GitHub        | GitHub 网页版应用         | https://github.com        |
-| Google Docs   | Google 文档               | https://docs.google.com   |
-| Google Keep   | Google Keep 笔记应用      | https://keep.google.com   |
-| Google Sheets | Google 表格               | https://sheets.google.com |
-| Google Slides | Google 幻灯片             | https://slides.google.com |
-| Notion        | Notion 笔记工具           | https://notion.so         |
-| TikTok        | TikTok 客户端             | https://www.tiktok.com    |
-| 腾讯视频      | 腾讯视频客户端            | https://v.qq.com          |
+| 应用          | 说明                      | 官方网站                  | 下载                                                                                            |
+| ------------- | ------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------- |
+| Bilibili      | B站客户端                 | https://www.bilibili.com  | [下载 DMG](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/Bilibili.dmg)        |
+| ChatGPT       | ChatGPT 网页版应用        | https://chatgpt.com       | [下载 DMG](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/ChatGPT.dmg)         |
+| DevDocs       | DevDocs 开发文档浏览器    | https://devdocs.io        | [下载 DMG](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/DevDocs.dmg)         |
+| Diagrams      | Diagrams.net 在线绘图工具 | https://www.diagrams.net  | [下载 DMG](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/Diagrams.dmg)        |
+| Douyin        | 抖音客户端                | https://www.douyin.com    | [下载 DMG](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/Douyin.dmg)          |
+| Excalidraw    | Excalidraw 白板绘图工具   | https://excalidraw.com    | [下载 DMG](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/Excalidraw.dmg)      |
+| Gemini        | Google Gemini AI 应用     | https://gemini.google.com | [下载 DMG](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/Gemini.dmg)          |
+| GitHub        | GitHub 网页版应用         | https://github.com        | [下载 DMG](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/GitHub.dmg)          |
+| Google Docs   | Google 文档               | https://docs.google.com   | [下载 DMG](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/Google%20Docs.dmg)   |
+| Google Keep   | Google Keep 笔记应用      | https://keep.google.com   | [下载 DMG](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/Google%20Keep.dmg)   |
+| Google Sheets | Google 表格               | https://sheets.google.com | [下载 DMG](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/Google%20Sheets.dmg) |
+| Google Slides | Google 幻灯片             | https://slides.google.com | [下载 DMG](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/Google%20Slides.dmg) |
+| Notion        | Notion 笔记工具           | https://notion.so         | [下载 ZIP](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/Notion.app.zip)      |
+| TikTok        | TikTok 客户端             | https://www.tiktok.com    | [下载 ZIP](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/TikTok.app.zip)      |
+| 腾讯视频      | 腾讯视频客户端            | https://v.qq.com          | [下载 ZIP](https://github.com/genwilliam/Pake-app/releases/download/v1.0.0/tengxun.app.zip)     |
 
 ## 🛠 技术栈
 
