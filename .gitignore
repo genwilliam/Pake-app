@@ -34,8 +34,10 @@ target/
 src-tauri/target/
 *.exe
 *.deb
+*.dmg
 *.rpm
 *.app/
+*.zip
 
 # IDE 和编辑器
 *.code-workspace
