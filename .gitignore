@@ -1,0 +1,73 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.iml
+
+# 包管理
+node_modules/
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 构建输出
+dist/
+build/
+target/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Pake 构建相关
+src-tauri/target/
+*.exe
+*.deb
+*.rpm
+*.app/
+
+# IDE 和编辑器
+*.code-workspace
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 日志文件
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 临时文件
+*.tmp
+*.temp
+.cache/
+.tmp/
+
+# OS 相关
+.AppleDouble
+.LSOverride
+*.DS_Store
+$RECYCLE.BIN/
+ehthumbs.db
+
+# Rust 相关
+Cargo.lock
+.cargo/
+
+# 其他
+.history/
+*.bak
+*.backup
